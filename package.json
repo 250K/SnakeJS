@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KiopDev",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  },
+  "dependencies": {
+    "custom-electron-titlebar": "^3.2.3"
+  }
+}
