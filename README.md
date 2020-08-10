@@ -20,7 +20,7 @@
 
 ## Download
 _Download the .exe to play! [][Donwload Windows]._
-_VirusTotal 0/ 67 ==> [https://cutt.ly/TdMPlil][Donwload Windows]._
+_VirusTotal 0/ 67 ==> [Donwload Windows](https://cutt.ly/TdMPlil)._
 
 
 
