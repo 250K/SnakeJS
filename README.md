@@ -20,7 +20,7 @@
 
 ## Download
 * _Download the .exe to play! [Download Windows](https://easyupload.io/c6m7ji)._
-* _VirusTotal 0/ 67 ==> [Download Windows](https://cutt.ly/TdMPlil)._
+* _VirusTotal 0/ 67 ==> [Virus Total](https://cutt.ly/TdMPlil)._
 
 
 
