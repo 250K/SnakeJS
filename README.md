@@ -19,8 +19,8 @@
   * https://www.npmjs.com/package/custom-electron-titlebar
 
 ## Download
-_Download the .exe to play! [][Donwload Windows]._
-_VirusTotal 0/ 67 ==> [Donwload Windows](https://cutt.ly/TdMPlil)._
+* _Download the .exe to play! [][Donwload Windows]._
+* _VirusTotal 0/ 67 ==> [Donwload Windows](https://cutt.ly/TdMPlil)._
 
 
 
