@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "KiopDev",
+  "author": "Tεkαshi",
   "license": "MIT",
   "devDependencies": {
     "electron": "^29.2.0"
